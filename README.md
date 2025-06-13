@@ -1,42 +1,24 @@
-<!-- 타이틀 -->
+# 💻 Tech Stack:
 
-<!-- 기술 스택 -->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/WPF-5C2D91.svg?style=for-the-badge&logo=windows&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/PL/SQL-306998.svg?style=for-the-badge&logo=databricks&logoColor=white" />&nbsp
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/WPF-5C2D91?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-31648C?style=flat&logo=datagrip&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=flat&logo=swagger&logoColor=white" />
+</p>
 
-<br>
+---
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=assiduityk1m&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=assiduityk1m&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=assiduityk1m&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br>
+---
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/DA%23-003B6F?style=for-the-badge&logo=data&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="mailto:assiduityk1m@gmail.com">
-    <img src="https://img.shields.io/badge/assiduityk1m@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
+[![](https://visitcount.itsvg.in/api?id=assiduityk1m&icon=0&color=6)](https://visitcount.itsvg.in)
+<!-- Profile README generated with 🧠 ChatGPT + 💻 assiduityk1m -->
