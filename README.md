@@ -1,6 +1,7 @@
 <h3 align="center">coder for a living</h3>
 
-💻 Tech Stack:
+<h2 align="center">Tech Stack 💻 </h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
